@@ -2,4 +2,4 @@
 
 export SCHEMA_REGISTRY_OPTS=-Djava.security.auth.login.config=/Users/benedikt/repos/1123/datev/multiSRC3/jaas_config.conf
 
-schema-registry-start schema-registry2.properties > schema-registry2.log 2>&1 &
+schema-registry-start schema-registry2B.properties > schema-registry2B.log 2>&1 &
